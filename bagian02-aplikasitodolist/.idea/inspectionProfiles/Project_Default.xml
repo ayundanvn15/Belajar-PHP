@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PhpApplyingEmptyIndexOperatorOnStringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpCaseWithValueNotFoundInEnumInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpConcatenationWithArithmeticInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpConstantReassignmentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDivisionByZeroInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpDuplicateArrayKeysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDuplicateCaseInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDuplicateMatchArmBodyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDuplicateMatchConditionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDuplicateSwitchCaseBodyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDuplicatedCharacterInStrFunctionCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpExpressionResultUnusedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpForeachArrayIsUsedAsValueInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpFormatFunctionParametersMismatchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpGotoIntoLoopInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpInvalidStringOffsetUsageInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpObjectFieldsAreOnlyWrittenInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpPassByRefInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpRandArgumentsInReverseOrderInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpToStringImplementationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpToStringReturnInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpUnpackedArgumentTypeMismatchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
